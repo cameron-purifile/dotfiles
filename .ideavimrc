@@ -1,0 +1,5 @@
+let mapleader=" "
+map ; :
+set relativenumber
+set number
+map <leader>/ <Action>(CommentByLineComment)
